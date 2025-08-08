@@ -1,0 +1,24 @@
+# Limits of Infinite Functions
+
+First, we decide the scale: X and Y, the axes, contain Finite Space between coordinate values -1 and 1 of both, center at Zero; infinite values run into number 2, cross the imaginary coordinate uniting limit value of such 2 with limit value of minus 2, and continue straight to -1: notice the imaginary point is located at Zero, but it's so much smoother that in higher frequency, it's in separate dimension. -2 is then still smaller than 2: the numeric relations do not break and you have to handle the very complex way, how the numeric axe becomes to be backwards. The first place where you need this: to contain infinities, you actually have digits *before* the first digit of plain infinite number, of exact value of infinity digits, so you also reflect outwards the matter: why 0.(9) is one, and not just a little smaller than one.
+
+There is a multiplication factor: in my math I often use divisions, which can make numbers only smaller, using the pre-accelerate value of them, and multiplications, which use only the post-accelerate values. Then, multiplying 1\*1\*1... with infinite number of ones: as the positive property of one, in relation to multiplication, is effected, the acceleration to 2 takes just as many steps, and is as impossible, as acceleration from 0 to 1 by multiplication. By these limit values in impossible-to-meet points, 0 1 and 2 become a symmetry in regards to infinity and zero. Exact symmetry to infinity is reached at 2, but it's one octave down - another dimension, a parallel dimension of infinities.
+
+As the *time goes*, mathematical axes of different octaves, but same notes vibrate: information and energy is carried. This is like sound: do in one octave slowly generates do in another octave, where we see energy and information transferred in one more dimension, with shape like rectangle: I write a triangle pointing upwards (or downwards in some paradigmatic duality), and looking otherwise like degree symbol - a little circle on the same position. Degree symbol is used for angles of the numers, and square for their linear values of travelled length.
+
+What means "time goes"? Math is never perfect, and rather you can see either optimization process in abstract math time, or real time of execution, where those frequencies give: so similarly shaped rhythyms that information *can* pass up and down: R=T and R<>T (R is T and R is not T) then appears, where the frequencies, generally, point to the same number and dimensions are kind of artificial - still, the simplest exact resonance of mathematical fact appears where two dimensions have octave relations, so the real property of the number will act like a balancing force there. Our problems about becoming enlightened and much of life in general: each are because we cannot unite them, such as interest of self with the common interest.
+
+Between two people, or two objects: to have mathematically this relation of two people standing and facing each others, both are surrounded by circle: the value would pass from one circle to another where they are projected into space so that they touch, where they are linearly straight: actual coordinates of relations occur in such space.
+
+In physical, material, spiritual realm: the coordinate systems actually appear where they are possible; numbers want to calculate, but they seek hardly where the rhythyms meet. Math works in space similar to physics - even, there is abstract energy as if you do not do this important operation, you can make this possible by doing another, equivalent operation (I assign letter "f", "frequential harmony", to this).
+
+So:
+- To zoom the coordinate space in and out, means you find scales, where infinite cycles are not limited to value range, which means almost zero degree flexibility; instead of this, you have local numbers to write down acceleration and decceleration, as well as stability factors to see the components, which would seem infinite in infinity.
+
+To draw such functions:
+
+The simplest are continuous fractals. They meet their fractal criteria at every single point: for example the exponent function, or tangens, in exponential axe it looks very linear, and the fractal can be seen in regards to any point, so the fractal image is smooth and not a repeated pattern with internal pieces.
+
+Notice the angles and their acceleration and decceleration: in case of the exponent or for example 2^n, one can find point acceleration value, which is static for all this operation. Given the symmetries of projecting infinity to 2, and then sub-zero perhaps to zero, you can also find an angle, which remains static under acceleration, for this local space: for each function, you can draw them.
+
+Otherwise, a gentle random factor could be used to resolve: if there is a normal fractal, it's somewhat up to you.
