@@ -1,3 +1,5 @@
+[Talk with the bot to understand it better / faster](https://poe.com/LaeSmallTheoremBot)!
+
 # Laegna Theory: Foundations in Mathematical Infinity and Projected Symmetries
 
 *This introduction is made by ChatGPT: notice that in LaeArve repository, there are links to more materials, and my website https://spireason.neocities.org/ contains some wider scope of view, not just the basic theorems.*
