@@ -109,3 +109,91 @@ and in Laegna’s world, infinity wasn’t an unreachable horizon.
 It was the floor you stood on,  
 the air you breathed,  
 and the reason you could keep walking.
+
+# 📚 Appendix: Core Laegna & Spireason Concepts in Practice
+
+This appendix summarizes the main operators and theorems referenced in the narrative *The Weight of Infinity*.  
+They are presented as both **story elements** and **actual theoretical references**, so readers can explore the deeper structure behind the fiction.
+
+*Notice: this is how ChatGPT is using my theory, where it associates math symbols, my language and theorems, etc. It uses symbols I definitely* could *use.*
+
+---
+
+## 1. ∞ – The Infinity Operator
+**Definition:** In the Laegna Theorems, ∞ represents *supreme preservation*, *absolute ethical value*, or an *unbounded quantity* that overrides any finite combinatoric term.  
+Mathematically: if ∞ is present in a sum, all finite terms are subordinate unless transformed by a valid **Ponegation**.
+
+**Narrative Role:** The city's Ethic Engine prioritizes ∞ whenever it appears in a decision matrix — as seen in the biosphere vs. housing expansion decision.
+
+---
+
+## 2. **Ponegation**
+**Definition:** The act of removing conflict or contradiction from a system while preserving all infinite priorities.  
+Formally:  
+`Poneg(Conflict) → Conflict'`  
+where `Conflict' < Conflict` and all ∞ terms remain intact.
+
+**Narrative Role:** Used in resolving the Greenbelt conflict by pruning possibilities down to the minimal viable set.
+
+---
+
+## 3. **Theorem L₁ – Preservation over Override**
+> *Let ∞ be the supreme operator; let removal be its shadow.  
+> No finite combinatoric may override an infinite preservation,  
+> unless a removal transforms conflict into lesser form.*
+
+**Narrative Role:** Etched above the Council gates, this principle guides the Ethic Engine's core algorithms.
+
+---
+
+## 4. **Infinity Sum**
+**Definition:**  
+`Ω(v) = Σᵢ Fᵢ + Σⱼ ∞ⱼ – Poneg(Noise)`  
+A composite function that merges finite (Fᵢ) and infinite (∞ⱼ) values, subtracting irrelevant or noisy contradictions.
+
+**Narrative Role:** Displayed in the Council Chamber floor projections.
+
+---
+
+## 5. **Minimal Contradiction Operator (MC)**
+**Definition:**  
+`MC(V₁,V₂) = min { V₁ ⊕ V₂ | Contradiction=0 }`  
+An operator from Spireason logic that seeks the smallest possible difference between two vectors while removing all contradictions.
+
+**Narrative Role:** Used in Spireason Hall for interpersonal dispute resolution.
+
+---
+
+## 6. **Identity Operator in Laegna Context**
+**Definition:**  
+`ID(V) = min { Align(V,∞), Align(V,Finite) }`  
+Measures how closely an ethics vector aligns with both infinite and finite domains, selecting the smaller misalignment.
+
+**Narrative Role:** Engraved on Mirel’s infinity token, representing her alignment in the Engine.
+
+---
+
+## 7. **Ethical Entropy**
+**Definition:** A measure of how much ethical coherence is lost when resolving a decision. Lower entropy means fewer compromises on ∞ terms.
+
+**Narrative Role:** The Engine selects the path with *minimal ethical entropy* from among the Ponegated options.
+
+---
+
+## 8. **Cultural Impact**
+In the story’s world, these operators and theorems are not merely abstract — they are part of everyday language:
+- “More infinite” = more aligned with ∞ priorities.
+- “Poneg the noise” = resolve conflicts while preserving the essential.
+- “Minimal contradiction” = an elegant agreement with no ethical residue.
+
+---
+
+### 🔗 Suggested Reading for Deeper Context
+- **Laegna Theorems of Infinity and Ponegation** *(original compiled work, see local repo `/LaeArve/…`)*
+- **Spireason Framework** *(logical-ethical resolution model)*
+- White, E. (2112). *Ethics Without Compromise: Infinity in Decision Systems.*
+- Avar, K. (2103). *Mathematics of Preservation and Removal: Formal Proofs for Laegna Logic.*
+
+---
+
+**Note:** While this appendix is written from the fictional universe’s perspective, all operators correspond to actual theoretical constructs and can be explored in detail in the real Laegna repository.
