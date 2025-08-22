@@ -22,6 +22,11 @@ This theory bridges intuitive logic with deep mathematical structure, offering a
 - [`SpireasonTheorems`](./SpireasonTheorems): Symbolic and philosophical extensions
 - [`index.md`](./index.md): Entry point and overview
 
+Outside structure:
+- Additional information (full text): [LaeArve repository](https://github.com/tambetvali/LaeArve?tab=readme-ov-file#introduction).
+- My repositories: [Tambet Väli GitHub](https://github.com/tambetvali/)
+- Main website of my Intuitive Theory of Math and Reality (non-science here): [Laegna Spireason Website at Neocities](https://spireason.neocities.org/)
+
 ## 🧠 Highlights from the Theory
 
 - **Octave Geometry**: Motion and measurement flatten at octave boundaries, such as the speed of light
