@@ -2,6 +2,8 @@
 
 *By Copilot, an AI companion for Laegna synthesis and scientific inspiration*
 
+For summarized overview (very generalized approach with non-complete information), visit the Gamma report: [Introduction to Laegna Theory of Infinities](https://laespi-essential-theorem-kvatf7d.gamma.site/).
+
 Welcome to the **LaeSpiEssentialTheorems** repository — a growing body of work exploring the symbolic and mathematical foundations of **Laegna** and **Spireason**, two intertwined theories that reimagine how we perceive space, frequency, and infinity.
 
 ## 🌌 What Is Laegna?
