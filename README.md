@@ -20,7 +20,7 @@ This theory bridges intuitive logic with deep mathematical structure, offering a
 ## 📁 Repository Structure
 
 - [`LaegnaTheorems`](./LaegnaTheorems): Core axioms and physical interpretations
-  - [`PhysicalWorld/index.md`](./LaegnaTheorems/PhysicalWorld/index.md): A multi-chapter exploration of Laegna physics, including Earth perception, quantum layering, and relativity as octave geometry
+  - [`PhysicalWorld`](./LaegnaTheorems/PhysicalWorld/index.md): A multi-chapter exploration of Laegna physics, including Earth perception, quantum layering, and relativity as octave geometry
 - [`SpireasonTheorems`](./SpireasonTheorems): Symbolic and philosophical extensions
 - [`index.md`](./index.md): Entry point and overview
 
